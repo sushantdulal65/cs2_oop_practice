@@ -1,0 +1,1 @@
+Hello. This is a sample file that is designed to test file filter.cpp
