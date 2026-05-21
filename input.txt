@@ -1,1 +1,4 @@
 Hello. This is a sample file that is designed to test file filter.cpp
+This is a new line that needs to be double spaced from filedoublespacer
+This again
+lets see this one too

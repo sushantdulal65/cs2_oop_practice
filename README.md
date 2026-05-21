@@ -12,3 +12,6 @@
 
 # Day 4 : 5/20/2026
 - File Handling and polymorphism concept problem. Look into FileFilter.cpp
+
+# Day 5: 5/21/2026
+-Last day of exercised from inheritances and polymorphism, two questions and done
