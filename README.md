@@ -15,3 +15,7 @@
 
 # Day 5: 5/21/2026
 -Last day of exercised from inheritances and polymorphism, two questions and done
+
+
+# Day 6: 5/23/2026
+- Last question wasn't done actually. Took me a lot of time and is done now and I am comitting today. 
